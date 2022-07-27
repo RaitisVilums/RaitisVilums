@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with **React.js**
 - 📫 How to reach me: **rvilums80@gmail.com** .
 - 😄 Pronouns: **He/His, Raitis.**
-- ⚡ Fun fact: **I play games and go to the GYM very often also I love pasta <3**
+- ⚡ Fun fact: **I play video games and go to the GYM very often, also I love pasta <3**
 
 #
 
