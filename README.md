@@ -1,6 +1,6 @@
 # _Hi I'm Raitis!_ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-### _I'm Raiti's Viļums a student and a trainee in web development, I Spend most of time coding and learning new things. My dream is to become a senior full-stack web developer._
+### _I'm Raiti's Viļums a student and a trainee in web development, I Spend most of time coding and learning new things. My dream is to become a full-stack web developer._
 
 #
 
